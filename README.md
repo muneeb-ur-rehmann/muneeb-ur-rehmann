@@ -4,7 +4,7 @@
 <h3 align="center">A passionate web developer</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muneeb-ur-rehmann&label=Profile%20views&color=0e75b6&style=flat" alt="muneeb-ur-rehmann" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=muneeb-ur-rehmann&show_icons=true&locale=en" alt="muneeb-ur-rehmann" /></p><br/> <br/><br/> <br/><br/> <br/><br/>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=muneeb-ur-rehmann&" alt="muneeb-ur-rehmann" /></p>
+

@@ -1,20 +1,21 @@
 
 
-<h1 align="center">Muneeb ur Rehman</h1> <hr/>
-<h3 align="center">📊 Data Analyst with a Full Stack Development Advantage</h3>
+<h1>Muneeb ur Rehman</h1>
+<h3>📊 Data Analyst with a Full Stack Development Advantage</h3>
 
 
 <p>
-I’m passionate about turning raw data into meaningful insights and building smart, user-friendly web applications.
+Data Analyst | Full-Stack Developer
+I work at the intersection of data analytics and full-stack development, turning raw data into meaningful insights and building practical applications that solve real-world problems.
 
-🔍 What I do:
+My core focus includes data analysis, data cleaning and transformation, exploratory data analysis, data visualization, dashboards, SQL-based data querying, and extracting actionable insights from complex datasets. Alongside analytics, I have full-stack development experience that allows me to build and understand applications across the frontend, backend, APIs, databases, authentication, and deployment.
 
-📈 Analyze data and uncover actionable insights
-📊 Create dashboards and data visualizations
-🐍 Work with Python, SQL, Excel & data analytics tools
-💻 Build full-stack web applications
-🔗 Connect data, backend systems, and interactive frontends
-🚀 Transform ideas into practical, data-driven solutions
+My technical toolkit includes Python, SQL, Excel, Power BI, Pandas, NumPy, JavaScript, React, Node.js, HTML, CSS, and database technologies such as MySQL, PostgreSQL, and MongoDB.
+
+I also use modern AI-assisted development tools such as ChatGPT and Codex to support my workflow in research, data analysis, prototyping, debugging, documentation, problem-solving, and improving development efficiency.
+
+My combination of data analytics and full-stack development gives me an advantage: I don't just analyze data — I understand how data moves through applications and how insights can be transformed into useful, user-focused solutions.
+
 </p>
 
 <h3 align="left">Connect with me:</h3>

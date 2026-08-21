@@ -19,6 +19,17 @@ My combination of data analytics and full-stack development gives me an advantag
 <span><a href="#">Portfolio</a> . <a href="https://www.linkedin.com/in/muneeb-ur-rehman-a5685021a/">Linkdin</a></span>
 
 <hr/>
-<h2>Featured Work</h2>
-<h3>Star Trading Company</h3>
-<img src="https://www.linkedin.com/in/muneeb-ur-rehman-a5685021a/" title="Star Trading Website"/>
+## Featured Work
+
+### 1. Star Trading Company 
+
+<a href="https://www.aghimuancreatives.site/">
+  <img src="./assets/aghimuan-creatives.webp" alt="Aghimuan Creatives Preview" width="560" />
+</a>
+
+A production website created for a photography and videography creative business, engineered with a responsive, mobile-first interface optimized for portfolio presentation and client inquiries.
+
+- **Key Aspects:** Responsive business website, photography and videography presentation, portfolio-focused experience, mobile-first interface, production deployment.
+- **Links:** [Visit Website](https://www.aghimuancreatives.site/) · [Source Code](https://github.com/sean-camara/aghimuan-creatives)
+
+---

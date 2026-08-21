@@ -19,7 +19,7 @@ My combination of data analytics and full-stack development gives me an advantag
 <span><a href="#">Portfolio</a> . <a href="https://www.linkedin.com/in/muneeb-ur-rehman-a5685021a/">Linkdin</a></span>
 
 <hr/>
-## Featured Work
+### Featured Work
 
 ### 1. Star Trading Company 
 

@@ -1,10 +1,21 @@
 
 
-<h1 align="center">Hi 👋, I'm Muneeb ur Rehman</h1>
-<h3 align="center">A passionate web developer</h3>
+<h1 align="center">Muneeb ur Rehman</h1> <hr/>
+<h3 align="center">📊 Data Analyst with a Full Stack Development Advantage</h3>
 
 
+<p>
+I’m passionate about turning raw data into meaningful insights and building smart, user-friendly web applications.
 
+🔍 What I do:
+
+📈 Analyze data and uncover actionable insights
+📊 Create dashboards and data visualizations
+🐍 Work with Python, SQL, Excel & data analytics tools
+💻 Build full-stack web applications
+🔗 Connect data, backend systems, and interactive frontends
+🚀 Transform ideas into practical, data-driven solutions
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

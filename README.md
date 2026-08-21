@@ -15,9 +15,8 @@ My technical toolkit includes Python, SQL, Excel, Power BI, Pandas, NumPy, JavaS
 I also use modern AI-assisted development tools such as ChatGPT and Codex to support my workflow in research, data analysis, prototyping, debugging, documentation, problem-solving, and improving development efficiency.
 
 My combination of data analytics and full-stack development gives me an advantage: I don't just analyze data — I understand how data moves through applications and how insights can be transformed into useful, user-focused solutions.
-
 </p>
-
+<span><a href="#">Portfolio</a> . <a href="https://www.linkedin.com/in/muneeb-ur-rehman-a5685021a/">Linkdin</a></span>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/mur_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mur_code" height="30" width="40" /></a>
